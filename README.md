@@ -33,8 +33,14 @@ This tutorial outlines the lifecycle of a ticket from intake to resolution withi
 <h2>Lifecycle Stages</h2>
 
 
+First we will open a new ticket as an end user > http://localhost/osTicket > Open a New Ticket > Fill out the information > "Create Ticket" 
+
+![image](https://github.com/user-attachments/assets/0b724e4d-9787-4d16-96ef-a9a07dc0e795)
 
 
+You can now login as an admin or agent and view the ticket > login url: http://localhost/osTicket/scp/login.php > Go to "Agent Panel" > Tickets > In here you can see the new ticket created 
+
+![image](https://github.com/user-attachments/assets/17e94105-4f15-4f92-8668-afddc3059b4a)
 
 
 
